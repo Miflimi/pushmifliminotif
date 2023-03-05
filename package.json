@@ -1,0 +1,26 @@
+{
+  "name": "pushmifliminotif",
+  "version": "1.0.0",
+  "description": "Notification push by miflimi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Miflimi",
+  "license": "MIT",
+  "dependencies": {
+    "https": "^1.0.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Miflimi/pushmifliminotif.git"
+  },
+  "keywords": [
+    "pushmifliminotif"
+  ],
+  "bugs": {
+    "url": "https://github.com/Miflimi/pushmifliminotif/issues"
+  },
+  "homepage": "https://github.com/Miflimi/pushmifliminotif#readme"
+}
